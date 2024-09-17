@@ -56,4 +56,3 @@ schd $ {10} {lst |> {teste_dir}}
 **Contribuições**
 
 **Sinta-se à vontade para contribuir com melhorias ou correções. Abra uma issue ou um pull request para discutir mudanças.**
-![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTCW3VGZatJ3fyfJuvW_1zkUdrRdJsTGjN7ARxiY7IPAqYwvp1Q_KpTek&s=10)
