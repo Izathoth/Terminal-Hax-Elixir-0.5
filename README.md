@@ -56,3 +56,6 @@ schd $ {10} {lst |> {teste_dir}}
 **Contribuições**
 
 **Sinta-se à vontade para contribuir com melhorias ou correções. Abra uma issue ou um pull request para discutir mudanças.**
+
+
+### Versão: 0.5, Última atualização: terça feira dia 17 de setembro de 2024
